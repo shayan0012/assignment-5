@@ -9,7 +9,7 @@ struct Vehicle
     int vehicleID;
     string ownerName;
     string vehicleType;
-    string licensePlate;
+    string licensePlate;//hello
     string registrationDate;
 };
 struct Violation
